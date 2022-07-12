@@ -62,7 +62,7 @@ https://t.me/+b8lFi7ZCCjozMjRl
 https://discord.gg/4PxFcY6whM
 
 ## Getting Started
-To install, you just run EnsoulSharp.Loader install HeyaAIO.Loader using this link: https://github.com/heya6666/HeyaAIO-Assembly then download HeyaAIO.Library.dll from this link: https://github.com/heya6666/HeyaAIO-Assembly/raw/main/HeyaAIO.Loader.esplugin and put in EnsoulSharp/Reference folder.
+To install, you just run EnsoulSharp.Loader install HeyaAIO.Loader using this link: https://github.com/heya6666/HeyaAIO-Assembly then download HeyaAIO.Library.dll from this link: https://github.com/heya6666/HeyaAIO-Assembly/raw/main/HeyaAIO.Library.dll and put in EnsoulSharp/Reference folder.
 
 https://streamable.com/li4s15
 https://streamable.com/s4l5tw
