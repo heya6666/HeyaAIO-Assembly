@@ -17,6 +17,7 @@ HeyaAIO is just ordinary AIO which contains:
   - Exp Tracker,
   - Fake Cursor,
   - Gank Detector,
+  - Jungle Tracker,
   - Last Position (Minimap),
   - Hud Tracker (Legacy and Modern),
   - Stasis Tracker,
