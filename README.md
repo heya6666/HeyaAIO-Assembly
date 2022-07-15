@@ -43,6 +43,7 @@ HeyaAIO is just ordinary AIO which contains:
   - Kalista,
   - KogMaw,
   - Lucian,
+  - Nilah,
   - Qiyana,
   - Senna,
   - Syndra,
